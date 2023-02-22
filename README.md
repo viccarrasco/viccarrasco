@@ -1,6 +1,6 @@
 ## hello there :v: 
 
-I'm Vic, a senior sde from 🇲🇽 living in 🇩🇪. With experience as team lead and agile project management. 
+I'm Vic, a senior sde from 🇲🇽 living in 🇩🇪. With experience as **team lead** and **agile project management**. 
 
 ##### What I do now
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
