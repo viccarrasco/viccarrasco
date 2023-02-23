@@ -17,6 +17,7 @@ I'm a senior sde from 🇲🇽 living in 🇩🇪. With experience as **team lea
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+<!--
 ```ruby
 module Presenter
   class EngineerPresenter
@@ -46,5 +47,6 @@ end.new(*me.values)
 
 Presenter::EngineerPresenter.present(viccarrasco)
 ```
+-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viccarrasco&show_icons=true&theme=calm)
