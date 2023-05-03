@@ -48,5 +48,3 @@ end.new(*me.values)
 Presenter::EngineerPresenter.present(viccarrasco)
 ```
 -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=viccarrasco&show_icons=true&theme=calm)
