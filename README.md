@@ -1,4 +1,4 @@
-## Oi, I'm Vic :v: 
+## Vic Carrasco 
 [![Linked IN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viccarrasco/)
 
 I'm a senior sde from 🇲🇽 living in 🇩🇪. With experience as **team lead** and **agile project management**. 
